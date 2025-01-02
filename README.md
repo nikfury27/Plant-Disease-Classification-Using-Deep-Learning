@@ -107,7 +107,7 @@ Ensure you have the following installed:
 
 ## 🚀 Running the Application
 
-1. Ensure the `model1.h5` file (trained CNN model) is in the project directory.
+1. Ensure the `model.h5` file (trained CNN model) is in the project directory.
 2. Start the Flask server:
    ```bash
    python app.py
@@ -121,7 +121,7 @@ Ensure you have the following installed:
 ---
 
 ## 📊 Dataset Information
-
+-You can download the dataset <a href="https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset/data">here</a>.
 - The dataset is divided into three categories:
   - **Healthy**
   - **Powdery**
